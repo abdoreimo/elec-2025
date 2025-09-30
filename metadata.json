@@ -1,0 +1,5 @@
+{
+  "name": "Honey-Themed Compensation Calculator",
+  "description": "A web application to calculate and manage 50% compensation for electricity and gas consumption for beneficiaries, designed with a warm, honey-inspired theme. It supports data management, reporting, exporting to XLSX and TXT, and data backup/restore.",
+  "requestFramePermissions": []
+}
